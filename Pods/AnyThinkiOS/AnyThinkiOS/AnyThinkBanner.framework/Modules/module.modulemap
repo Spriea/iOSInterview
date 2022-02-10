@@ -1,0 +1,6 @@
+framework module AnyThinkBanner {
+  umbrella header "AnyThinkBanner.h"
+
+  export *
+  module * { export * }
+}

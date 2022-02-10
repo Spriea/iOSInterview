@@ -1,0 +1,84 @@
+PODS:
+  - Ads-CN (3.5.1.2):
+    - Ads-CN/BUAdSDK (= 3.5.1.2)
+  - Ads-CN/BUAdSDK (3.5.1.2):
+    - Ads-CN/BUFoundation
+    - Ads-CN/Domestic
+  - Ads-CN/BUFoundation (3.5.1.2)
+  - Ads-CN/Domestic (3.5.1.2)
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - AnyThinkiOS (5.7.13):
+    - AnyThinkiOS/AnyThinkSDK (= 5.7.13)
+  - AnyThinkiOS/AnyThinkSDK (5.7.13)
+  - AnyThinkiOS/AnyThinkTouTiaoAdapter (5.7.13):
+    - AnyThinkiOS/AnyThinkSDK
+  - IQKeyboardManager (6.5.6)
+  - Masonry (1.1.0)
+  - MJExtension (3.2.4)
+  - MJRefresh (3.5.0)
+  - SDWebImage (5.10.2):
+    - SDWebImage/Core (= 5.10.2)
+  - SDWebImage/Core (5.10.2)
+  - UMAPM (1.1.1)
+  - UMCommon (7.2.5):
+    - UMDevice
+  - UMDevice (1.1.0)
+
+DEPENDENCIES:
+  - Ads-CN (= 3.5.1.2)
+  - AFNetworking (~> 4.0.0)
+  - AnyThinkiOS (= 5.7.13)
+  - AnyThinkiOS/AnyThinkTouTiaoAdapter (= 5.7.13)
+  - IQKeyboardManager
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - SDWebImage (~> 5.10.2)
+  - UMAPM
+  - UMCommon
+  - UMDevice
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Ads-CN
+    - AFNetworking
+    - AnyThinkiOS
+    - IQKeyboardManager
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - SDWebImage
+    - UMAPM
+    - UMCommon
+    - UMDevice
+
+SPEC CHECKSUMS:
+  Ads-CN: c9f347beb4f9f3894ba1955eee224dd47c3da722
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  AnyThinkiOS: 65b27e1da4de53fb4ff4c4113920b7e8e8299f1d
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 88e0900751b6cac8de1cf724ca9838a0b28d5acb
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  SDWebImage: b969dcfc02c40a5da71eac0b03b8f1a0c794a86f
+  UMAPM: d0623e0b3ca8b1a1df855e0bddb91b5c002d097d
+  UMCommon: b5aabdb9fad44330ff8738d9bc46ebf93db14bf2
+  UMDevice: 28d21a568c8e8322e5a03bbd53b138d0c098d3b3
+
+PODFILE CHECKSUM: ed5059f54e2d8535210472d76724f19b6e68ed23
+
+COCOAPODS: 1.7.0.beta.3

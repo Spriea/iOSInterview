@@ -1,0 +1,6 @@
+framework module AnyThinkInterstitial {
+  umbrella header "AnyThinkInterstitial.h"
+
+  export *
+  module * { export * }
+}

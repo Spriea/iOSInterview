@@ -1,0 +1,6 @@
+framework module AnyThinkPangleAdapter {
+  umbrella header "AnyThinkPangleAdapter.h"
+
+  export *
+  module * { export * }
+}
